@@ -1,0 +1,2 @@
+This is a test of the 'fetch' feature!
+expectaction: we see this file on local but do not have to merge or rebase unless we want to

@@ -1,4 +1,4 @@
 
 //what you know about that
 //asjkasjiaijsaijjsi
-//SSH configuration successful
+//SSH configuration good to go
